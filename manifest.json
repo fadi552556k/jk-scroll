@@ -1,0 +1,9 @@
+{
+  "id": "jk-scroll",
+  "name": "JK Scroll",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Use J and K to scroll in Reading View.",
+  "author": "G. Fadi",
+  "isDesktopOnly": false
+}
