@@ -16,10 +16,9 @@ Designed to let you read long notes effortlessly without constantly tapping arro
 ## Installation
 
 ### Manual Installation
-1. Download the latest `main.js`, `manifest.json`, and `styles.css` (if applicable) from the [Releases page](../../releases).
-2. Create a new folder named `jk-scroll` inside your vault's plugins directory: `<Your-Vault>/.obsidian/plugins/jk-scroll/`.
-3. Place the downloaded files into that folder.
-4. Open Obsidian, go to **Settings > Community plugins**, and enable **JK Scroll**.
+1. Download `main.js`, `manifest.json` into a local folder, or directly clone this repository using `git clone <repo_URL>`.
+2. Move the folder into your vault's plugins directory: `<Your-Vault>/.obsidian/plugins/your_folder`.
+3. Open Obsidian, go to **Settings > Community plugins**, and enable **JK Scroll**.
 
 ---
 
